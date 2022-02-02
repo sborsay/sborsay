@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Stephen Borsay
+
+🔭 I’m currently working on AWS IoT
+
+💬 Ask me about Technical training and teaching for IoT and device integration
+
+📫 How to reach me: Borsay@gmail.com
 
 <!--
 **sborsay/sborsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
