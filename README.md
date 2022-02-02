@@ -4,6 +4,17 @@
 
 💬 Ask me about Technical training and teaching for IoT and device integration
 
+## Courses:
+
+https://www.udemy.com/course/exploring-aws-iot/
+
+https://www.udemy.com/course/aws-serverless-design-for-iot/
+
+https://www.udemy.com/course/all-about-arduino-wireless/learn/lecture/4194514#overview
+
+https://www.udemy.com/course/inexpensive-fpga-development-and-prototyping-by-example/learn/lecture/3676838#overview
+
+
 📫 How to reach me: Borsay@gmail.com
 
 ![image](https://user-images.githubusercontent.com/16296900/152218861-32746953-e7bc-4981-b71e-84fc3d45febd.png)
