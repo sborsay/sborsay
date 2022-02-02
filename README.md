@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Stephen Borsay
 
-🔭 I’m currently working on AWS IoT
+🔭 I’m currently working on AWS IoT training and teaching material
 
 💬 Ask me about Technical training and teaching for IoT and device integration
 
