@@ -1,11 +1,10 @@
-![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
-
-
 ## Hi there 👋 I'm Stephen Borsay
 
 🔭 I’m currently working on AWS IoT training and teaching material
 
 💬 Ask me about Technical training and teaching for IoT and device integration
+
+![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
 
 ## Courses:
 
