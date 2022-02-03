@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Stephen Borsay
+![image](https://user-images.githubusercontent.com/16296900/152265486-bf308212-87ad-4d9c-b672-58d283c95051.png)
+
+## Hi there 👋 I'm Stephen Borsay
 
 🔭 I’m currently working on AWS IoT training and teaching material
 
