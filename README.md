@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/16296900/152265906-b81a1fda-7483-4bfc-8537-a8a195d35ae4.png)
 
-https://tenor.com/view/animated-gif-banana-yoga-balance-workout-gif-16738063
+![ezgif-5-103beb3d36](https://user-images.githubusercontent.com/16296900/152267376-4580ab63-fa58-4ed5-bc5d-a6b3c390e998.gif)
+
 
 ## Hi there 👋 I'm Stephen Borsay
 
