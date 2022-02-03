@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/16296900/152265486-bf308212-87ad-4d9c-b672-58d283c95051.png)
 
-![image](https://user-images.githubusercontent.com/16296900/152265609-3b5a85c7-1fd9-4330-8017-677071246328.png)
+https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif
 
 
 ## Hi there 👋 I'm Stephen Borsay
