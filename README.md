@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/16296900/152265486-bf308212-87ad-4d9c-b672-58d283c95051.png)
 
-<iframe src="https://giphy.com/embed/eoxomXXVL2S0E" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![image](https://user-images.githubusercontent.com/16296900/152265816-9ad446d4-1c72-474c-a1e2-81a135952ee7.png)
+
 
 ## Hi there 👋 I'm Stephen Borsay
 
