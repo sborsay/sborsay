@@ -9,14 +9,7 @@
 
 ## Courses:
 
-https://www.udemy.com/course/exploring-aws-iot/
-
-https://www.udemy.com/course/aws-serverless-design-for-iot/
-
-https://www.udemy.com/course/all-about-arduino-wireless/learn/lecture/4194514#overview
-
-https://www.udemy.com/course/inexpensive-fpga-development-and-prototyping-by-example/learn/lecture/3676838#overview
-
+https://www.udemy.com/user/stv/
 
 📫 How to reach me: Borsay@gmail.com
 
