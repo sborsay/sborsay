@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Stephen Borsay
+## Hi there 👋 I'm Stephen Borsay IoT Engineer
 
 🔭 I’m currently working on AWS IoT training and teaching material
 
