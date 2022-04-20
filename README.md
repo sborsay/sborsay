@@ -18,7 +18,7 @@ https://www.udemy.com/user/stv/
 
 ![](https://komarev.com/ghpvc/?username=sborsay)
 
-[![Watch the video](https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg)
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=UCiwFO9083gofF-OJMZsYIdg" width="480" height="400"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
