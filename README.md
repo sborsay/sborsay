@@ -18,9 +18,7 @@ https://www.udemy.com/user/stv/
 
 ![](https://komarev.com/ghpvc/?username=sborsay)
 
-<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/youtube.xml&up_channel=UCiwFO9083gofF-OJMZsYIdg=open&w=320&h=390&title=&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script>
-
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
