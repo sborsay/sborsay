@@ -1,4 +1,5 @@
-## Stephen Borsay, IoT Engineer
+## Stephen Borsay, IoT Engineer 
+<h3 align="center">Device to Cloud Integration</h3>
 
 🔭 I’m currently working on AWS IoT training and teaching material
 
@@ -12,7 +13,6 @@ https://www.udemy.com/user/stv/
 
 📫 How to reach me: Borsay@gmail.com
 
-<h3 align="center">Device to Cloud Integration</h3>
 
 <p align="left"> <a href="https://twitter.com/embedded_iot_" target="blank"><img src="https://img.shields.io/twitter/follow/embedded_iot_?logo=twitter&style=for-the-badge" alt="embedded_iot_" /></a> </p>
 
