@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Stephen Borsay, IoT Engineer
+## Stephen Borsay, IoT Engineer
 
 🔭 I’m currently working on AWS IoT training and teaching material
 
@@ -27,7 +27,7 @@ https://www.udemy.com/user/stv/
 
 ![image](https://user-images.githubusercontent.com/16296900/152218861-32746953-e7bc-4981-b71e-84fc3d45febd.png)
 
-
+![](https://komarev.com/ghpvc/?username=sborsay)
 
 <!--
 **sborsay/sborsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
