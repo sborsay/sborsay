@@ -18,6 +18,8 @@ https://www.udemy.com/user/stv/
 
 ![](https://komarev.com/ghpvc/?username=sborsay)
 
+[![Watch the video](https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/embedded_iot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="embedded_iot_" height="30" width="40" /></a>
