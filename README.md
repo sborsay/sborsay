@@ -1,9 +1,9 @@
 ## Stephen Borsay, IoT Engineer 
 <h3 align="center">Device to Cloud Integration</h3>
 
-🔭 I’m currently working on AWS IoT training and teaching material
+🔭 I’m currently working on IoT training and teaching material
 
-💬 Ask me about Technical training and teaching for IoT and device integration
+💬 Ask me about technical training and teaching for IoT and device integration
 
 ## Courses:
 
