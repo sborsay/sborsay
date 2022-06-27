@@ -5,6 +5,10 @@
 
 💬 Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration
 
+See my new IoT device at:
+
+https://CloudBoard.cc
+
 ## Courses:
 
 https://www.udemy.com/user/stv/
