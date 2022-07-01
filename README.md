@@ -7,6 +7,8 @@
 
 See my new IoT device at:
 
+![alt text](https://github.com/sborsay/Serverless-IoT-on-AWS/blob/master/Level4_design/IMG_4147.jpg?raw=true)
+
 https://CloudBoard.cc
 
 ## Courses:
