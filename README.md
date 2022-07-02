@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on IoT Training and Teaching
 
-💬 Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br>
+💬 Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br></br>
 
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 
