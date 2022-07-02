@@ -28,7 +28,10 @@ https://www.udemy.com/user/stv/
 <p align="left">
 <a href="https://twitter.com/embedded_iot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="embedded_iot_" height="30" width="40" /></a>
   
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg]
+<a href="https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
