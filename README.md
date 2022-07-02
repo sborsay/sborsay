@@ -23,7 +23,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:mBorsay@gmail.com) 
 
-
+---
 
 <p align="left"> <a href="https://twitter.com/embedded_iot_" target="blank"><img src="https://img.shields.io/twitter/follow/embedded_iot_?logo=twitter&style=for-the-badge" alt="embedded_iot_" /></a> </p>
 
