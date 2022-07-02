@@ -7,7 +7,7 @@
 
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br>
-## Courses:
+## Teaching Online Courses at:
 
 https://www.udemy.com/user/stv/
 
