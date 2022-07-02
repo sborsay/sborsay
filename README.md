@@ -5,7 +5,7 @@
 
 💬 Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br>
 
-See my new IoT device at:  https://CloudBoard.cc
+**See my new IoT device at:**  &emsp; https://CloudBoard.cc
 
 ## Courses:
 
