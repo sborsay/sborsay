@@ -21,7 +21,7 @@
 
 📫 How to reach me: Borsay@gmail.com </br>&emsp;</br>Steve@cloudboard.cc </br>
 
-      <a img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>   </a> Borsay@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:mBorsay@gmail.com) Borsay@gmail.com
 
 
 
