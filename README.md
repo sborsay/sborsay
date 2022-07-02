@@ -12,6 +12,7 @@
 https://www.udemy.com/user/stv/
 
 ![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
+---
 
 📫 How to reach me: Borsay@gmail.com </br>&emsp;</br>Steve@cloudboard.cc </br>
 
