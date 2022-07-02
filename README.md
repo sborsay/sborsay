@@ -20,7 +20,7 @@ https://www.udemy.com/user/stv/
 <p align="left"> <a href="https://twitter.com/embedded_iot_" target="blank"><img src="https://img.shields.io/twitter/follow/embedded_iot_?logo=twitter&style=for-the-badge" alt="embedded_iot_" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=sborsay)
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
