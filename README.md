@@ -13,6 +13,7 @@
 </br> <a href="https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg
   </br>
 
 ![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
