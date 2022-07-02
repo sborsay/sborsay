@@ -9,7 +9,7 @@
 </br>
 ## Teaching Online Courses at:
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) &emsp;  https://www.udemy.com/user/stv/
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) </br>  https://www.udemy.com/user/stv/
 
 ![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
 ---
