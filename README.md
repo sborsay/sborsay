@@ -21,6 +21,9 @@
 
 📫 How to reach me: Borsay@gmail.com </br>&emsp;</br>Steve@cloudboard.cc </br>
 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> Borsay@gmail.com
+
+
 
 <p align="left"> <a href="https://twitter.com/embedded_iot_" target="blank"><img src="https://img.shields.io/twitter/follow/embedded_iot_?logo=twitter&style=for-the-badge" alt="embedded_iot_" /></a> </p>
 
