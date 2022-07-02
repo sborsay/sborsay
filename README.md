@@ -19,9 +19,9 @@
 ![ezgif-5-0d11d3a8d6](https://user-images.githubusercontent.com/16296900/152267669-32a10f21-0ffa-40bc-a67c-a72c5eb9b999.gif)
 ---
 
-📫 How to reach me: Borsay@gmail.com </br>&emsp;</br>Steve@cloudboard.cc </br>
+📫 How to reach me: Steve@cloudboard.cc </br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:mBorsay@gmail.com) Borsay@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:mBorsay@gmail.com) 
 
 
 
