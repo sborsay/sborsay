@@ -1,4 +1,4 @@
-## Stephen Borsay, IoT Engineer 
+<p align="center"> ## Stephen Borsay, IoT Engineer </p>
 <h3 align="center">Device to Cloud Integration</h3>
 
 💬 IoT Training and Teaching. Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br>
