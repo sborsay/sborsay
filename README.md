@@ -8,7 +8,7 @@
 </br></p>
 **See my new Book at:**  &emsp; https://www.amazon.com/AWS-Serverless-IoT-Inexpensive-Projects-ebook/dp/B0B9P325F7
 </br></p>
-![image](https://user-images.githubusercontent.com/16296900/187732266-5bdf3d91-a186-429d-a616-a154ac149590.png)
+![image](https://user-images.githubusercontent.com/16296900/187732695-c24d884f-bdbf-4a44-8788-e6119ffacbaa.png)
 </br></p>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br></p>
