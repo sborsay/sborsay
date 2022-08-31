@@ -9,7 +9,7 @@
 </br></p>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br></p>
-![image](<p align="center">https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png</p>)
+![image](https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png)
 
 ## Teaching Online Courses at:
 
