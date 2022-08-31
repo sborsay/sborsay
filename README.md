@@ -3,7 +3,7 @@
 
 💬 I’m currently working on IoT Training and Teaching. Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br></br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+New+Book+On+Amazon;AWS+Serverless+IoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg)
 
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br>
