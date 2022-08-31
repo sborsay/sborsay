@@ -8,8 +8,8 @@
 **See my new Book at:**  &emsp; https://www.amazon.com/AWS-Serverless-IoT-Inexpensive-Projects-ebook/dp/B0B9P325F7
 </br></p>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
-</br>
-https://github.com/sborsay/AWS-Serverless-IoT-Book/blob/main/Chapter.Images/resize20b.jpg
+</br></p>
+![image](https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png)
 </br>
 ## Teaching Online Courses at:
 
