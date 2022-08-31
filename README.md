@@ -1,9 +1,9 @@
 ## Stephen Borsay, IoT Engineer 
 <h3 align="center">Device to Cloud Integration</h3>
 
-🔭 I’m currently working on IoT Training and Teaching
+💬 I’m currently working on IoT Training and Teaching. Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br></br>
 
-💬 Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br>
