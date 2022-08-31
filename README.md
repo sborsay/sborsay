@@ -48,9 +48,10 @@
 
 ![alt text](https://github.com/sborsay/Serverless-IoT-on-AWS/blob/master/Level4_design/resize15.jpg?raw=true)
 
+**See my new IoT device at:**  &emsp; https://CloudBoard.cc
+
 ![image](https://user-images.githubusercontent.com/16296900/152218861-32746953-e7bc-4981-b71e-84fc3d45febd.png)
 
-**See my new IoT device at:**  &emsp; https://CloudBoard.cc
 
 <!--
 **sborsay/sborsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
