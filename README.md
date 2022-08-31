@@ -9,6 +9,8 @@
 </br></p>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br>
+https://github.com/sborsay/AWS-Serverless-IoT-Book/blob/main/Chapter.Images/resize20b.jpg
+</br>
 ## Teaching Online Courses at:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) </br> </br>  https://www.udemy.com/user/stv/  </br>
