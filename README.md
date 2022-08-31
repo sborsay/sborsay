@@ -10,7 +10,7 @@
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br></p>
 ![image](https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png)
-</br>
+
 ## Teaching Online Courses at:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) </br> </br>  https://www.udemy.com/user/stv/  </br>
