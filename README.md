@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/16296900/187732695-c24d884f-bdbf-4a44-8788-e6119ffacbaa.png)
 </br>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
-</br>
+</br></p>
 ![image](https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png)
 ## Teaching Online Courses at:
 
