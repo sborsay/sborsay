@@ -1,10 +1,10 @@
 ## Stephen Borsay, IoT Engineer
 
-<h3 align="center">Device to Cloud Integration</h3>
+<h3 align="center">Device to Cloud Integration
 
 💬 IoT Training and Teaching. Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg) </h3>
 </br></p>
 **See my new Book at:**  &emsp; https://www.amazon.com/AWS-Serverless-IoT-Inexpensive-Projects-ebook/dp/B0B9P325F7
 </br></p>
