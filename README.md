@@ -2,16 +2,14 @@
 <h3 align="center">Device to Cloud Integration</h3>
 
 💬 IoT Training and Teaching. Ask me about Technical Training and Teaching for IoT, Cloud, and Device Integration </br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg)
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg) </p>
 </br></p>
 **See my new Book at:**  &emsp; https://www.amazon.com/AWS-Serverless-IoT-Inexpensive-Projects-ebook/dp/B0B9P325F7
 </br></p>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br></p>
-<p align="center">
 ![image](https://user-images.githubusercontent.com/16296900/187730488-0af64493-79bd-4457-a882-eaebc11e3175.png)
-</p>
 ## Teaching Online Courses at:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) </br> </br>  https://www.udemy.com/user/stv/  </br>
