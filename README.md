@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7500&pause=1000&color=2F2EF7&center=true&multiline=true&width=435&lines=My+New+Book+on+Amazon;%22AWS+Serverless+IoT%22)](https://git.io/typing-svg)
 
+**See my new Book at:**  &emsp; https://www.amazon.com/AWS-Serverless-IoT-Inexpensive-Projects-ebook/dp/B0B9P325F7
+</br>
 **See my new IoT device at:**  &emsp; https://CloudBoard.cc
 </br>
 ## Teaching Online Courses at:
