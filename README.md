@@ -15,7 +15,7 @@
 
 ## Teaching Online Courses at:
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp; after space</br> </br>  https://www.udemy.com/user/stv/  </br>
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) </br> </br>  https://www.udemy.com/user/stv/  </br>
 </br> <a href="https://www.youtube.com/channel/UCiwFO9083gofF-OJMZsYIdg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  </br>
   </a></br>
