@@ -32,7 +32,7 @@
 
 📫 How to reach me: </br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:mBorsay@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Borsay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Borsay@gmail.com)](mailto:Borsay@gmail.com) 
 
 ---
 
