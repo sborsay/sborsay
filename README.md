@@ -1,4 +1,5 @@
-![Header](./githubheader.png)
+![githubheader](https://github.com/user-attachments/assets/33f36e5f-dd23-4314-a6f4-b457131dc881)
+
 
 ## Stephen Borsay, IoT Engineer
 
